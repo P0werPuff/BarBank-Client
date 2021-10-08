@@ -3,4 +3,5 @@
 /src/node_modules/@sapper/
 yarn-error.log
 /__sapper__/
-.ideagit
+.idea
+static/vendor
